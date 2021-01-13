@@ -43,9 +43,6 @@ html {
 .clear {
     clear: both;
 }
-#main {
-
-}
 
 #header {
     position: fixed;
@@ -183,9 +180,6 @@ left: 24px; */
     font-weight: bolder;
 }
 
-#content {
-
-}
 
 #content .content-section {
     width: 814px;
